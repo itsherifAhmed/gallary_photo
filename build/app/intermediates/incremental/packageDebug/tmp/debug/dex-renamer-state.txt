@@ -1,0 +1,4 @@
+#Thu Aug 26 23:45:53 EET 2021
+base.0=C\:\\Users\\makka\\Downloads\\photo_manager_demo-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
